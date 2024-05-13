@@ -7,23 +7,19 @@ This is the Github page for the class, Efficient ML Systems (EECE695D-01).  Stud
 * Finally, if you verify that the markdown file is rendering successfully, commit.
      * How to Commit 
           1. Download this repository to your local environment.
-          <br>
-          
+              
           ```git clone https://github.com/efficientml-spring24/Blog-Post-Assignment.git```
           
           2. Add your files 
-          <br>
-          
+                    
           ```git add .```
           
           3. Commit
-           <br>
-          
+                    
           ```git commit -m "You can write a message here"``` 
           
           4. Push it!
-           <br>
-          
+                     
           ```git push ```
 
 
