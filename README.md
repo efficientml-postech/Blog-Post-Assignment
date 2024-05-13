@@ -5,7 +5,7 @@ This is the Github page for the class "Efficient ML Systems (EECE695D-01)". Stud
 |  	| Title 	| Team 	| Blog Post LINK 	|
 |---	|---	|---	|---	|
 |  	|  	| Member 1, Member 2 	|  	|
-| 0 	| **_(example)_** [Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity](https://arxiv.org/abs/2403.02944) 	| Hagyeong Lee 	| https//github.com/efficientml-spring24/Blog-Post-Assignment/0_TACO_HagyeongLee 	|
+| 0 	| **_(example)_** [Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity](https://arxiv.org/abs/2403.02944) 	| Hagyeong Lee 	| [0_TACO_HagyeongLee](https://github.com/efficientml-spring24/Blog-Post-Assignment/tree/main/0_TACO_HagyeongLee) 	|
 | 1 	| [Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3         	](https//arxiv.org/abs/2405.00666) 	| Jin Hyun, Gyuhyun Jung 	|  	|
 | 2 	| [Spectrally Pruned Gaussian Fields with Neural Compensation                          	](https//arxiv.org/pdf/2405.00676) 	| Donggeon Lee, Chiho yoon 	|  	|
 | 3 	| [Unit Scaling: Out-of-the-Box Low-Precision Training                              	](https//arxiv.org/abs/2303.11257) 	| SeongRok Moon, Changyoung Ju 	|  	|
