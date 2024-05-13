@@ -1,8 +1,28 @@
 # Blog-Post-Assignment
+This is the Github page for the class, Efficient ML Systems (EECE695D-01).  Students (will) upload a blog post reviewing the paper.
 
-This is the Github page for the class "Efficient ML Systems (EECE695D-01)". Students (will) upload a blog post reviewing the paper below:
+## Guideline for Students
+* First, make the folder named `Paper Number_Paper Title_Member1_Member2 (e.g. 0_TACO_HagyeongLee)`. You can use initials of paper title. If there is no optimal initials, then you can skip the paper name (e.g. 0_HagyeongLee).
+* Second, you put the markdown file and assests(e.g. figures) in the folder.
+* Finally, if you verify that the markdown file is rendering successfully, commit.
+     * How to Commit 
+          1. Download this repository to your local enviroment.
+          <br>
+          ```git clone https://github.com/efficientml-spring24/Blog-Post-Assignment.git```
+          2. Add your files 
+          <br>
+          ```git add .```
+          3. Commit
+           <br>
+          ```git commit -m "You can write message here"``` 
+          4. Push it!
+           <br>
+          ```git push ```
 
-|  	| Title 	| Team 	| Blog Post LINK 	|
+
+## Posts
+
+| Number 	| Title 	| Team 	| Blog Post LINK 	|
 |:---:|:---:|:---:|:---:|
 |  	|  	| Member 1, Member 2 	|  	|
 | 0 	| **_(example)_** [Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity](https://arxiv.org/abs/2403.02944) 	| Hagyeong Lee 	| [0_TACO_HagyeongLee](https://github.com/efficientml-spring24/Blog-Post-Assignment/blob/main/0_TACO_HagyeongLee/0_TACO_HagyeongLee.md) 	|
