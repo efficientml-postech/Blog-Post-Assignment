@@ -3,7 +3,7 @@
 This is the Github page for the class "Efficient ML Systems (EECE695D-01)". Students (will) upload a blog post reviewing the paper below:
 
 |  	| Title 	| Team 	| Blog Post LINK 	|
-|---	|---	|---	|---	|
+|:---:|:---:|:---:|:---:|
 |  	|  	| Member 1, Member 2 	|  	|
 | 0 	| **_(example)_** [Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity](https://arxiv.org/abs/2403.02944) 	| Hagyeong Lee 	| [0_TACO_HagyeongLee](https://github.com/efficientml-spring24/Blog-Post-Assignment/blob/main/0_TACO_HagyeongLee/0_TACO_HagyeongLee.md) 	|
 | 1 	| [Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3         	](https//arxiv.org/abs/2405.00666) 	| Jin Hyun, Gyuhyun Jung 	|  	|
